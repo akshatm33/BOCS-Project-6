@@ -1,1 +1,1 @@
-# BOCS-Project-6
+# BOCS Project 6
